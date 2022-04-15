@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedElsarag
-- 👀 I’m interested in android app development
+- 👀 I’m interested in mobile app development in android native an flutter
 - 📫 How to reach me ...ahmd.elsarag@gmail.com
 
 <!---
